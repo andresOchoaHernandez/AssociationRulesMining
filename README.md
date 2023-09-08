@@ -1,8 +1,2 @@
-# DMKDAssingments
-Projects for Data Mining Knowledge and Discovery course at UniVr
-
-# Assingment 1
-Clustering association rule mining
-
-# Assingment 2
-Conformal prediction and explanation of a fitbit dataset
+# Association Rule Mining
+Implementation of the "A priori" algorithm to find frequent itemsets and Association Rules generation.
